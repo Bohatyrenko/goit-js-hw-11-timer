@@ -56,9 +56,3 @@ body {
   transition-duration: 500ms;
   transition-timing-function: linear;
 }
-
-.link:hover,
-.link:focus {
-  font-size: 53px;
-  transition-timing-function: linear;
-}
